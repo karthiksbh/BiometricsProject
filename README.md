@@ -1,4 +1,4 @@
-BCI3006 – Biometrics
+# BCI3006 – Biometrics
 
 Project Title: Travel Ticket Verification using Face Recognition Biometric 
 
